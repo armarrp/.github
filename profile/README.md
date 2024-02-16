@@ -1,5 +1,5 @@
-## OasisV
+## ARMARP
 
-- Oasis is a FiveM Semi-RP/Fragging server.
+- ARMA is a FiveM Semi-RP/Fragging server.
 
-- [Discord](https://discord.gg/oasisv)
+- [Discord](https://discord.gg/armarp)
